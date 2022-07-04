@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <ul>
   <li> 🏢 Currently Working at: <strong> TCS - Tata Consultancy Services </strong>; </li>
   <li> 💬 Interested in: <strong> Data and Machine Learning </strong>; </li>
-  <li> 📚 Currently Learning: <strong> TensorFlow </strong>; </li> 
+  <li> 📚 Currently Learning: <strong> TensorFlow and Scikit-Learn </strong>; </li> 
 </ul>
 
 <h2> 💻 Programming Skills </h2>
